@@ -14,7 +14,7 @@
 - (void)openCamera:(CDVInvokedUrlCommand *)command {
     self.camera = [[CustomCameraViewController alloc] initWithNibName:nil bundle:nil];
     
-    [self.viewController presentViewController:self.camera.imagePicker animated:NO completion:nil];
+    [self.viewController presentViewController:self.camera.imagePicker animated:YES completion:nil];
 }
 
 @end
