@@ -36,7 +36,7 @@
 		<header-file src="platforms/ios/CustomCamera/Classes/CustomCameraViewController.h" />
 		<source-file src="platforms/ios/CustomCamera/Classes/CustomCamera.m" />
 		<source-file src="platforms/ios/CustomCamera/Classes/CustomCameraViewController.m" />
-
+		<framework src="QuartzCore.framework" />
 	</platform>
 
 </plugin>
