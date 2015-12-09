@@ -5,7 +5,7 @@
 	id="com.test.custom-camera"
 	version="0.0.1">
 
-	<name>Custom Camera Fun</name>
+	<name>CustomCameraFun</name>
 	<description>PhoneGap plugin to support the designed camera</description>
 	<author>Jackson Taylor</author>
 
